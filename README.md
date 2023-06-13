@@ -1,4 +1,4 @@
-# Project Name: Sophisticated Escort System
+# Project Name: A Sophisticated Escort System
 
 ## Environmental Setup
 
