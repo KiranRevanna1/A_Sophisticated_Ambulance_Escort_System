@@ -33,7 +33,7 @@
 - Requires Node.js and React Native framework.
 
 ## Downloadable Files
-- Ambulance Detection Algorithm: [Download](link)
+- Ambulance Detection Algorithm: [Download](https://github.com/KiranRevanna1/A_Sophisticated_Ambulance_Escort_System/tree/main/AI%20Ambulance%20Detection%20model%20and%20ML%20audio%20model)
 - Siren Detection Algorithm: [Download](link)
 - Web Application Source Code: [Download](link)
 - Final Report: [Download](link)
