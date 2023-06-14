@@ -1,0 +1,5 @@
+train: dataset/test\YOLODataset/images/train/
+val: dataset/test\YOLODataset/images/val/
+test: dataset/test\YOLODataset/images/test/
+nc: 1
+names: ['Ambulance']

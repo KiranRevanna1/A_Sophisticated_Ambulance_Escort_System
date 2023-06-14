@@ -1,0 +1,6 @@
+train: C:\Users\swaro\PycharmProjects\ultra\train
+val: C:\Users\swaro\PycharmProjects\ultra\test
+
+nc: 1
+
+names: ['Ambulance']
