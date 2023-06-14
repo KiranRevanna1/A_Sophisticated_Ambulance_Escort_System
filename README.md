@@ -34,16 +34,16 @@
 
 ## Downloadable Files
 - Ambulance Detection Algorithm: [Download](https://github.com/KiranRevanna1/A_Sophisticated_Ambulance_Escort_System/tree/main/AI%20Ambulance%20Detection%20model%20and%20ML%20audio%20model)
-- Siren Detection Algorithm: [Download](link)
-- Web Application Source Code: [Download](link)
-- Final Report: [Download](link)
-- PPT's: [Download](link)
-- Literature or Research Papers: [Download](link)
-- Video Pitch: [Link](video_url)
+- Siren Detection Algorithm: [Download](https://github.com/KiranRevanna1/A_Sophisticated_Ambulance_Escort_System/blob/main/AI%20Ambulance%20Detection%20model%20and%20ML%20audio%20model/voice.py)
+- Web Application Source Code: [Download](https://github.com/KiranRevanna1/A_Sophisticated_Ambulance_Escort_System/tree/main/ResQConnect)
+- Final Report: [Download](https://github.com/KiranRevanna1/A_Sophisticated_Ambulance_Escort_System/blob/main/Final%20Report.pdf)
+- PPT's: [Download](https://github.com/KiranRevanna1/A_Sophisticated_Ambulance_Escort_System/tree/main)
+- Literature or Research Papers: [Download](https://github.com/KiranRevanna1/A_Sophisticated_Ambulance_Escort_System/blob/main/Survey%20paper.pdf)
+- Video Pitch: [Link](https://github.com/KiranRevanna1/A_Sophisticated_Ambulance_Escort_System/blob/main/Demonstration%20Video.mp4)
 - Poster: [Download](link)
-- Dataset: [Download](link)
+- Dataset: [Download](https://github.com/KiranRevanna1/A_Sophisticated_Ambulance_Escort_System/tree/main/AI%20Ambulance%20Detection%20model%20and%20ML%20audio%20model/dataset)
 
 Please refer to the respective files for detailed setup instructions, software details, and additional project resources.
 
-**Video Pitch:** [Watch Video Pitch](video_pitch_link)
+**Video Pitch:** [Watch Video Pitch](https://github.com/KiranRevanna1/A_Sophisticated_Ambulance_Escort_System/blob/main/Demonstration%20Video.mp4)
 
