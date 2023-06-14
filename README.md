@@ -40,7 +40,7 @@
 - PPT's: [Download](https://github.com/KiranRevanna1/A_Sophisticated_Ambulance_Escort_System/tree/main)
 - Literature or Research Papers: [Download](https://github.com/KiranRevanna1/A_Sophisticated_Ambulance_Escort_System/blob/main/Survey%20paper.pdf)
 - Video Pitch: [Link](https://github.com/KiranRevanna1/A_Sophisticated_Ambulance_Escort_System/blob/main/Demonstration%20Video.mp4)
-- Poster: [Download](link)
+- Poster: [Download](https://github.com/KiranRevanna1/A_Sophisticated_Ambulance_Escort_System/blob/main/Poster.png)
 - Dataset: [Download](https://github.com/KiranRevanna1/A_Sophisticated_Ambulance_Escort_System/tree/main/AI%20Ambulance%20Detection%20model%20and%20ML%20audio%20model/dataset)
 
 Please refer to the respective files for detailed setup instructions, software details, and additional project resources.
